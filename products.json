@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Teriyaki Soslu Somon",
+          "price": 200 ,
+          "image": { "fields": { "file": { "url": "somon.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "İncirli Salata",
+          "price": 120,
+          "image": { "fields": { "file": { "url": "salata.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Special Pizza",
+          "price": 140,
+          "image": { "fields": { "file": { "url": "pizza.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Özel Karışık Et",
+          "price": 290,
+          "image": { "fields": { "file": { "url": "special.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Sebze Şiş",
+          "price": 100,
+          "image": { "fields": { "file": { "url": "sebzesis.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Barbekü Hamburger",
+          "price": 140,
+          "image": { "fields": { "file": { "url": "hamburger.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Krem Şanti Krep",
+          "price": 90,
+          "image": { "fields": { "file": { "url": "krep.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Kuşkonmaz Biftek",
+          "price": 150,
+          "image": { "fields": { "file": { "url": "biftek.jpg" } } }
+        }
+      }
+    ]
+  }
